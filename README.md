@@ -1,38 +1,40 @@
-# 🚀 ¡Hola! Soy jsaccastro-sketch
+<h1 align="center">👋 ¡Hola! Soy jsaccastro-sketch</h1>
 
-### 💻 Estudiante de Ingeniería en Sistemas
-Bienvenido a mi perfil de GitHub. Actualmente estoy cursando mi primer año en la **Universidad Mesoamericana (Sede Zona 9)** y aprendiendo las bases para construir software de calidad.
-
----
-
-## 🛠️ Mis Herramientas
-* **Lenguajes de Programación:** * `C++` )
-    * `Python` 
-* **Control de Versiones:** * `Git` & `GitHub` 
-* **Hardware:**
-    * DELL Laptop & Iphone 
+<p align="center">
+  Estudiante de Ingeniería en Sistemas — enfocado en lógica de programación y control de versiones.
+</p>
 
 ---
 
-## 📊 Estadísticas de Aprendizaje
-> "El código es lenguaje, y la práctica es la clave de la fluidez."
+## 👨‍💻 Sobre mí
 
-| Tecnología | Nivel de Dominio | Estado |
-| :--- | :---: | :--- |
-| **C++** | 🟢 Alto | Dominando lógica avanzada |
-| **Python** | 🟡 Medio | Ampliando conocimientos |
-| **Git / GitHub** | 🟡 Medio | Practicando flujos profesionales |
-| **PSeInt** | 🟢 Alto | Fundamentos de lógica |
+- 🎓 Cursando **Ingeniería en Sistemas** en la Universidad Mesoamericana.
+- 💡 Me interesa mucho el desarrollo con **C++** y la automatización con **Python**.
+- 📍 Desde Guatemala.
+
+## 🛠️ Stack tecnológico
+
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
+## 📚 Aprendiendo actualmente
+
+- Dominando flujos de trabajo profesionales en **GitHub**.
+- Profundizando en estructuras de datos con **C++**.
+- Explorando scripts básicos en **Python**.
+
+## 📊 Mis estadísticas en GitHub
+
+![Estadísticas de jsaccastro-sketch](https://github-readme-stats.vercel.app/api?username=jsaccastro-sketch&show_icons=true&theme=tokyonight)
+![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=jsaccastro-sketch&layout=compact&theme=tokyonight)
+
+## 📫 Contacto
+
+- **GitHub:** [jsaccastro-sketch](https://github.com/jsaccastro-sketch)
+- **LinkedIn:** [Mi Perfil](https://linkedin.com/in/tu-perfil)
 
 ---
 
-## ✍️ Un poco de código
-```cpp
-#include <iostream>
-using namespace std;
-
-int main() {
-    cout << "Ingeniería en Sistemas" << endl;
-    cout << "Pasión por la tecnología y el desarrollo." << endl;
-    return 0;
-}
+<p align="center">⭐ ¡Gracias por visitar mi perfil!</p>
